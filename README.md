@@ -13,7 +13,7 @@ Vivid is a web application that allows users to generate images from text descri
 
 ## Usage
 ### Generating Images
-**1.** Register or log in to your Vivid account.
+**1.** Click the "Create" button in the top right corner of the screen.
 
 **2.** Enter a text description in the provided input field.
 
